@@ -1,0 +1,23 @@
+html, body  
+	{background: #ffe1c4; 
+	 text-align: center; 
+	 margin:5px 7px 5px 7px;  
+	}
+#lista
+	{text-align:left;
+	font-size:25px;
+	background:#ffc68c;
+	margin-right:40cm;
+	}
+#problem
+	{text-align:left;
+	font-size:20px;
+	background:#ffc68c;
+	border-style:solid;
+	border-color:#ffd5aa;
+	border-width:5px;
+	}
+p
+	{font-size:25px;
+	
+	}
